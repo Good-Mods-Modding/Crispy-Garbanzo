@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "crispygarbanzo:block/bismuth_block"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "bismuth_ingot",
+  "ingredients": [
+    {
+      "item": "crispygarbanzo:bismuth_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "crispygarbanzo:bismuth_ingot"
+  }
+}

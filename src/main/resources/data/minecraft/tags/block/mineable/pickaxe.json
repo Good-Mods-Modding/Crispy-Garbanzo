@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "crispygarbanzo:tungsten_block",
+    "crispygarbanzo:bismuth_block",
+    "crispygarbanzo:tungsten_ore",
+    "crispygarbanzo:deepslate_tungsten_ore",
+    "crispygarbanzo:bismuth_ore",
+    "crispygarbanzo:deepslate_bismuth_ore",
+    "crispygarbanzo:raw_tungsten_block",
+    "crispygarbanzo:raw_bismuth_block"
+  ]
+}

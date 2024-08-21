@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "crispygarbanzo:raw_bismuth_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "crispygarbanzo:raw_bismuth"
+  }
+}

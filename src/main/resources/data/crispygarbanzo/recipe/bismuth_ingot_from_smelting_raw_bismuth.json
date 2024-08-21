@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "bismuth_ingot",
+  "ingredient": {
+    "item": "crispygarbanzo:raw_bismuth"
+  },
+  "result": {
+    "id": "crispygarbanzo:bismuth_ingot"
+  }
+}
