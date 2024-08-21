@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "bismuth_ingot",
+  "ingredient": {
+    "item": "crispy_garbanzo:deepslate_bismuth_ore"
+  },
+  "result": {
+    "id": "crispy_garbanzo:bismuth_ingot"
+  }
+}

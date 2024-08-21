@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "crispy_garbanzo:item/bismuth_ingot"
+  }
+}

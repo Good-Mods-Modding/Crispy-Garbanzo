@@ -1,0 +1,15 @@
+{
+  "item.crispy_garbanzo.tungsten_ingot": "Tungsten Ingot",
+  "item.crispy_garbanzo.raw_tungsten": "Raw Tungsten",
+  "item.crispy_garbanzo.tungsten_nugget": "Tungsten Nugget",
+  "item.crispy_garbanzo.bismuth_ingot": "Bismuth Ingot",
+  "item.crispy_garbanzo.raw_bismuth": "Raw Bismuth",
+  "item.crispy_garbanzo.bismuth_nugget": "Bismuth Nugget",
+  "block.crispy_garbanzo.tungsten_block": "Tungsten Block",
+  "block.crispy_garbanzo.bismuth_block": "Bismuth Block",
+  "block.crispy_garbanzo.tungsten_ore": "Tungsten Ore",
+  "block.crispy_garbanzo.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.crispy_garbanzo.bismuth_ore": "Bismuth Ore",
+  "block.crispy_garbanzo.deepslate_bismuth_ore": "Deepslate Bismuth Ore",
+  "itemGroup.crispy_garbanzo": "Crispy Garbanzo"
+}

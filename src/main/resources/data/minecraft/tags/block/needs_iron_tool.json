@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "crispygarbanzo:tungsten_block",
-    "crispygarbanzo:tungsten_ore",
-    "crispygarbanzo:deepslate_tungsten_ore",
-    "crispygarbanzo:raw_tungsten_block"
+    "crispy_garbanzo:tungsten_block",
+    "crispy_garbanzo:tungsten_ore",
+    "crispy_garbanzo:deepslate_tungsten_ore",
+    "crispy_garbanzo:raw_tungsten_block"
   ]
 }

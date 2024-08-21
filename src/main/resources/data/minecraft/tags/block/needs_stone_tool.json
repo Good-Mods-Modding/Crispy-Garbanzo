@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "crispygarbanzo:bismuth_block",
-    "crispygarbanzo:bismuth_ore",
-    "crispygarbanzo:deepslate_bismuth_ore",
-    "crispygarbanzo:raw_bismuth_block"
+    "crispy_garbanzo:bismuth_block",
+    "crispy_garbanzo:bismuth_ore",
+    "crispy_garbanzo:deepslate_bismuth_ore",
+    "crispy_garbanzo:raw_bismuth_block"
   ]
 }

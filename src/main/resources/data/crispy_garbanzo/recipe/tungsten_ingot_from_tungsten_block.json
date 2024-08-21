@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "tungsten_ingot",
+  "ingredients": [
+    {
+      "item": "crispy_garbanzo:tungsten_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "crispy_garbanzo:tungsten_ingot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bismuth_ingot",
+  "key": {
+    "#": {
+      "item": "crispy_garbanzo:bismuth_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "crispy_garbanzo:bismuth_ingot"
+  }
+}

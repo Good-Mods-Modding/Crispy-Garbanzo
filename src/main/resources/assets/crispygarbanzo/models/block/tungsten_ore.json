@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "crispygarbanzo:block/tungsten_ore"
-  }
-}

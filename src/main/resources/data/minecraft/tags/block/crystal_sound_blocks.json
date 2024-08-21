@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "crispy_garbanzo:bismuth_block",
+    "crispy_garbanzo:bismuth_ore",
+    "crispy_garbanzo:deepslate_bismuth_ore",
+    "crispy_garbanzo:raw_bismuth_block",
+    "minecraft:small_amethyst_bud",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:large_amethyst_bud",
+    "minecraft:amethyst_cluster",
+    "minecraft:calibrated_sculk_sensor"
+  ]
+}

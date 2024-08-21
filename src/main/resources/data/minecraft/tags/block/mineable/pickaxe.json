@@ -1,13 +1,13 @@
 {
   "replace": false,
   "values": [
-    "crispygarbanzo:tungsten_block",
-    "crispygarbanzo:bismuth_block",
-    "crispygarbanzo:tungsten_ore",
-    "crispygarbanzo:deepslate_tungsten_ore",
-    "crispygarbanzo:bismuth_ore",
-    "crispygarbanzo:deepslate_bismuth_ore",
-    "crispygarbanzo:raw_tungsten_block",
-    "crispygarbanzo:raw_bismuth_block"
+    "crispy_garbanzo:tungsten_block",
+    "crispy_garbanzo:bismuth_block",
+    "crispy_garbanzo:tungsten_ore",
+    "crispy_garbanzo:deepslate_tungsten_ore",
+    "crispy_garbanzo:bismuth_ore",
+    "crispy_garbanzo:deepslate_bismuth_ore",
+    "crispy_garbanzo:raw_tungsten_block",
+    "crispy_garbanzo:raw_bismuth_block"
   ]
 }
